@@ -6,16 +6,69 @@ h1{
 
 }
 .orange-color{
-    color: hsl(31, 78%, 55%);
+    color: tomato;
+    
 }
 section{
     display: flex;
+
     
 }
 .text-color{
-    color:rgb(122, 133, 143) ;
+    color:rgb(98, 101, 104) ;
 }
 .half-width{
     width: 50%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: tomato;
+    padding:15px 30px ;
+    border-radius:50px ;
+    color: white;
+    background-image: linear-gradient(tomato,rgb(255, 179, 0));
+}
+#first{
+    padding:5% 6% ;
+}
+.gray{
+    color: gray;
+}
+
+.girl{
+    width: 100%;
+    
+    
+    background-repeat: no-repeat;
+    padding: 5%;
+    text-align: left;
+
+
+}
+.girl2{
+    background-image: url(images/back.png);
+    background-repeat: no-repeat;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+
+    
+}
+.contact{
+    text-decoration: none;
+    background-color: tomato;
+    padding:15px 30px ;
+    border-radius:50px ;
+    color: white;
+    background-image: linear-gradient(tomato,rgb(255, 179, 0));
+    font-weight: 700;
+}
+.about{
+    color: rgb(122, 121, 121);
+    font-weight: 700;
+}
+.lorem{
+font-weight: 500;
+color: rgb(53, 52, 52);
 }
     
