@@ -88,6 +88,7 @@ color: rgb(53, 52, 52);
     width: 50%;
     padding-left: 70px;
     
+    
 
   }
   .bold recipie{
@@ -97,18 +98,24 @@ color: rgb(53, 52, 52);
     border: 1px solid rgb(242, 239, 239);
     border-radius: 40px;
     padding-left: 50px;
-    padding-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 40px;
     padding-right: 50px;
     border-radius: 40px;
   }
   .border1{
     padding-left: 50px;
-    padding-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 40px;
     padding-right: 50px;
     border: 1px solid rgb(242, 239, 239);;
     border-radius: 40px;
-    padding: ;
+    
 
+  }
+  .dummy{
+    color: rgb(81, 80, 80);
+    font-weight: 100px;
   }
   .footer{
     display: flex;
