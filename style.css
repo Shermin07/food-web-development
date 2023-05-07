@@ -83,6 +83,67 @@ color: rgb(53, 52, 52);
   .lorem2{
     font-weight: 400;
   }
-  
+  .food pic{
+    display: flex;
+    width: 50%;
+    padding-left: 70px;
+    
+
+  }
+  .bold recipie{
+    font-weight: bolder;
+  }
+  .border{
+    border: 1px solid rgb(242, 239, 239);
+    border-radius: 40px;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+    border-radius: 40px;
+  }
+  .border1{
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+    border: 1px solid rgb(242, 239, 239);;
+    border-radius: 40px;
+    padding: ;
+
+  }
+  .footer{
+    display: flex;
+    border: 1px solid rgb(242, 239, 239);
+    border-radius: 50px;
+    padding-left:100px;
+    padding-right: 100px;
+    text-align: center;
+  }
+  .f1{
+    padding-left: 230px;
+
+}
+  .f2{
+    padding-left: 90px;
+  }
+  .f3{
+    padding-left: 90px;
+  }
+  .footer2{
+    border: 1px solid rgb(31, 30, 30);
+    background-color: black;
+    padding-left:450px;
+    padding-right: 100px;
+    text-align: center;
+  }
+  .fresh{
+    color: rgb(179, 176, 176);
+  }
+  .eat{
+    color: rgb(244, 111, 88);
+  }
+  .healthy{
+    color: white;
+    font-weight: 200;
+  }
 
   
